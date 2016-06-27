@@ -1,6 +1,6 @@
 {
   "name": "device-type",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Identify a device based on HTTP headers - user-agent but also cloudfront's CloudFront-Is-*-Viewer-headers",
   "main": "dist/index.js",
   "scripts": {
